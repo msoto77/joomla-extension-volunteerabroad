@@ -1,0 +1,2 @@
+-- Hacer Respaldo de tablas y despues drop
+-- DROP TABLE IF EXISTS `#__vabroad`;
