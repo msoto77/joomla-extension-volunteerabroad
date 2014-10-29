@@ -10,7 +10,9 @@
 // No direct access to this file
 defined('_JEXEC') or die;
 
+
 /**
+ * ***
  * General Controller of HelloWorld component
  *
  * @package     Joomla.Administrator
